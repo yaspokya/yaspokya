@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaspokya
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning about  Front-End Developer 
-- ⚡ Fun fact: Energetic , eager to learn
+- ⚡ Fun fact: Energetic , Eager to learn
 
 <!---
 yaspokya/yaspokya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
